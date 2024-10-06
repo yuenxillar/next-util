@@ -7,6 +7,9 @@ description = "This crate is mainly used as a tool for daily development, as lon
 repository = "https://github.com/yuenxillar/next-util"
 readme = "README.md"
 keywords = ["next-util", "development tools", "simple"]
+license = "MIT"
+
+
 
 [lib]
 path = "src/lib.rs"
