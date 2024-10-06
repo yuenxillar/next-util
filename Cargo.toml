@@ -1,0 +1,12 @@
+[package]
+name = "next-util"
+version = "0.1.0"
+edition = "2021"
+authors = ["Listening", "xxx"]
+description = "This crate is mainly used as a tool for daily development, as long as it is simple and applicable"
+repository = "https://github.com/yuenxillar/next-util"
+readme = "README.md"
+keywords = ["next-util", "development tools", "simple"]
+
+[lib]
+path = "src/lib.rs"
